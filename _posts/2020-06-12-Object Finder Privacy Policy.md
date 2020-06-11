@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
+title: "어따 뒀지? (Object Finder) 개인정보 처리방침"
 date: 2020-06-12 02:28:28 -0400
-categories: jekyll update
+categories: 개인정보 
 ---
 
 1. 개인정보의 처리 목적 <김영민>(‘dev-young.github.io’이하 ‘dev-young’) 은(는) 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
@@ -34,7 +34,6 @@ categories: jekyll update
 
 1<촬영된 사진 저장>
 - 필수항목 : 핸드폰 사진
-- 선택항목 :
 
 
 
