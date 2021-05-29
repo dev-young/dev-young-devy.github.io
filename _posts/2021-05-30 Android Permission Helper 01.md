@@ -1,4 +1,8 @@
-# 안드로이드 권한 요청 쉽게 하기!
+---
+title: "안드로이드 권한 요청 쉽게 하기!"
+date: 2021-05-30 06:30:00 -0400
+categories: [Android] 
+---
 
 ## 권한이 필요한 작업 수행을 도와줄 RunWithPermission.kt
 
