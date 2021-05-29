@@ -6,7 +6,7 @@ categories: [Android]
 
 ## 권한이 필요한 작업 수행을 도와줄 RunWithPermission.kt
 
-[dev-young/DevyStudy](https://github.com/dev-young/DevyStudy/blob/master/app/src/main/java/io/ymsoft/devystudy/RunWithPermission.kt)
+[RunWithPermission.kt](https://github.com/dev-young/DevyStudy/blob/master/app/src/main/java/io/ymsoft/devystudy/RunWithPermission.kt)
 
 ### 사용법은 아래와 같다!
 
